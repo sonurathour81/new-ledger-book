@@ -1,0 +1,30 @@
+.datefield .react-datepicker-wrapper{
+    width: 100%
+}
+
+.clickableBtn{
+    text-align: center;
+    font-size: 15px;
+    cursor: pointer;
+}
+
+.clickableBtn a {
+    color: #656565;
+}
+
+.clickableBtn a:hover{
+    text-decoration: none;
+    opacity: 0.7;
+}
+
+.form-group.has-feedback{
+    margin: 0px;
+}
+
+.form-group.has-feedback.has-error .help-block{
+    color: #db2828;
+}
+
+.withIncres{
+    width: 50%!important;
+}
